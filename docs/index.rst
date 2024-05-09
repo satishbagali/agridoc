@@ -10,7 +10,7 @@ The AgriChat is a combination of FarmStack and AI ChatBot.
 .. image:: /images/farmerchat.webp
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
    :caption: Contents:
 
    modules
