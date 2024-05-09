@@ -5,16 +5,14 @@
 
 Welcome to Agri Chat
 ====================
+The AgriChat is a combination of FarmStack and AI ChatBot. 
+
+.. image:: /images/farmerchat.webp
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+   modules
+   
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
