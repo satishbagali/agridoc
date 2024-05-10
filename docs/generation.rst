@@ -1,7 +1,7 @@
 generation package
 ==================
 
-generation.generate\_response module
+generation.generateresponse module
 ------------------------------------
 
 .. automodule:: generation.generate_response
@@ -24,3 +24,4 @@ Module contents
    :members:
    :undoc-members:
    :show-inheritance:
+   
