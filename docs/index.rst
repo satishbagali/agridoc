@@ -8,7 +8,7 @@ Welcome to Agri Chat
 This is about the decent looking simple documentation of LPWJ Project. 
 Are you ready to explore? 
 
-.. image:: /images/farmerchat.webp
+.. image:: /images/AIChat.webp
 
 .. toctree::
    :maxdepth: 2
@@ -16,4 +16,3 @@ Are you ready to explore?
    :caption: Contents:
 
    modules
-   
