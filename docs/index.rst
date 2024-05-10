@@ -15,5 +15,5 @@ Are you ready to explore?
    :hidden:
    :caption: Content:
 
-   Content/modules
-   Content/BotSetupInstructions
+   content/modules
+   content/BotSetupInstructions
