@@ -13,6 +13,6 @@ Are you ready to explore?
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Contents:
+   :caption: Content:
 
-   modules
+   Content/modules
