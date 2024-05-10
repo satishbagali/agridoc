@@ -1,9 +1,6 @@
 generation package
 ==================
 
-Submodules
-----------
-
 generation.generate\_response module
 ------------------------------------
 

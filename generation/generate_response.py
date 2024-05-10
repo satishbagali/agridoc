@@ -6,6 +6,16 @@ from rag_service.openai_service import make_openai_request
 
 
 async def setup_prompt(user_name, context_chunks, rephrased_query, system_prompt=Config.GENERATION_PROMPT):
+    """
+    Args:
+        param1: user_name
+        param2: context_chunks
+        param3: rephrased_query
+        param4: system_prompt=Config.GENERATION_PROMPT
+
+    Returns:
+        int: Division of the given two numbers
+    """
     prompt_name_1 = user_name if user_name else "a person"
     prompt_name_2 = user_name if user_name else "the person"
     response_prompt = system_prompt.format(
