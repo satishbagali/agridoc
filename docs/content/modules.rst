@@ -3,7 +3,7 @@ agridoc
 
 .. toctree::
    :hidden:
-   :maxdepth: 2
+   :maxdepth: 4
 
  
    ../generation
