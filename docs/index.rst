@@ -5,14 +5,15 @@
 
 Welcome to Agri Chat
 ====================
-The AgriChat is a combination of FarmStack and AI ChatBot. 
+This is about the decent looking simple documentation of LPWJ Project. 
+Are you ready to explore? 
 
 .. image:: /images/farmerchat.webp
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 2
+   :hidden:
    :caption: Contents:
 
    modules
    
-
