@@ -15,5 +15,13 @@ Are you ready to explore?
    :hidden:
    :caption: Content:
 
-   content/modules
+   content/module1
+   content/generation
+
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: BoT Setup Instructions:
+   
    content/BotSetupInstructions

@@ -1,10 +1,7 @@
-generation package
+generation package 1
 ==================
 
-Submodules
-----------
-
-generation.generate\_response module
+generation.generateresponse module
 ------------------------------------
 
 .. automodule:: generation.generate_response
@@ -20,10 +17,4 @@ generation.utils module
    :undoc-members:
    :show-inheritance:
 
-Module contents
----------------
-
-.. automodule:: generation
-   :members:
-   :undoc-members:
-   :show-inheritance:
+   
